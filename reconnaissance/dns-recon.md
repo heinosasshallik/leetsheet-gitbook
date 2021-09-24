@@ -22,7 +22,29 @@ Use a dictionary attack to enumerate subdomains against a DNS server.
 python dnsrecon.py -n ns1.insecuredns.com -d insecuredns.com -D subdomains-top1mil-5000.txt -t brt
 ```
 
+## AltDNS
 
+AltDNS is a useful tool for enumerating subdomains. You can use subdomains you already know about and then apply changes and permutations to them to try to discover new ones.
 
+{% embed url="https://github.com/infosec-au/altdns" %}
 
+## DNSDumpster
+
+[https://dnsdumpster.com/](https://dnsdumpster.com/)
+
+Queries DNS servers and returns subdomains it finds. Here’s the explanation about how it works: [https://dnsdumpster.com/footprinting-reconnaissance/](https://dnsdumpster.com/footprinting-reconnaissance/)
+
+## Autonomous System \(AS\) Numbers
+
+Finding Autonomous System \(AS\) Numbers will help us identify netblocks belonging to an organization which in-turn may have valid domains.
+
+1. Resolve the IP address of a given domain using dig or host
+2. There are tools to find ASN given an IP address — https://asn.cymru.com/cgi-bin/whois.cgi
+3. There are tools to find ASN given a domain name — http://bgp.he.net/
+4. Finding AS Number using IP address
+5. The ASN numbers found can be used to find netblocks of the domain. There are Nmap scripts to achieve that — https://nmap.org/nsedoc/scripts/targets-asn.htm
+
+```text
+nmap --script targets-asn --script-args targets-asn.asn=17012
+```
 
