@@ -16,6 +16,7 @@
   * [Common Identifiers](web-app-hacking/enumeration/common-identifiers.md)
   * [Directory Enumeration](web-app-hacking/enumeration/directory-enumeration/README.md)
     * [Automated Directory Enumeration](web-app-hacking/enumeration/directory-enumeration/automated-directory-enumeration.md)
+    * [Manual Directory Enumeration](web-app-hacking/enumeration/directory-enumeration/manual-directory-enumeration.md)
 * [Exploitation](web-app-hacking/exploitation/README.md)
   * [Attack Users](web-app-hacking/exploitation/attack-users/README.md)
     * [CORS Misconfigurations](web-app-hacking/exploitation/attack-users/cors-misconfigurations.md)
