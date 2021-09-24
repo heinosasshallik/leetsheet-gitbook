@@ -2,7 +2,7 @@
 description: Get hostnames and info from DNS servers
 ---
 
-# DNS Recon
+# Domains
 
 ## Dig
 
