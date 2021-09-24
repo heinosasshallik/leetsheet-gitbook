@@ -48,3 +48,43 @@ Finding Autonomous System \(AS\) Numbers will help us identify netblocks belongi
 nmap --script targets-asn --script-args targets-asn.asn=17012
 ```
 
+## Zone Transfers
+
+If zone transfers are enabled, you can pull all the DNS data from a nameserver:
+
+```text
+dig +multi AXFR @ns1.insecuredns.com insecuredns.com
+```
+
+## Zone Walking
+
+You can try zone walking if they have NSEC.
+
+What it is: 
+
+[http://info.menandmice.com/blog/bid/73645/Take-your-DNSSEC-with-a-grain-of-salt](http://info.menandmice.com/blog/bid/73645/Take-your-DNSSEC-with-a-grain-of-salt)
+
+Tool usage:
+
+```text
+ldns-walk @ns1.insecuredns.com insecuredns.com
+```
+
+
+
+## ForwardDNS
+
+There’s a huge database called Forward DNS that’s been compiled. You can access it on scans.io’s website I think? It’s supposed to be pretty thorough.
+
+```text
+curl -silent https://scans.io/data/rapid7/sonar.fdns_v2/20170417-fdns.json.gz | pigz -dc | grep ".icann.org" | jq
+```
+
+The database is 19GB compressed and 300GB uncompressed though. You’ll have to download it and uncompress it so make sure you have a good internet and lots of disk space.
+
+
+
+
+
+
+
