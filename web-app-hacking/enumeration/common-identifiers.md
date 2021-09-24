@@ -45,27 +45,25 @@ Taken from [this](https://www.php.net/manual/en/security.hiding.php) documentati
 
 ### PHP Easter Eggs
 
-If `expose_php` hasn't been set to off in the Apache conf file \(which also hides .php extensions\), then you can put this as an argument to get php info: `?=PHPB8B5F2A0-3C92-11d3-A3A9-4C7B08C10000` .  There are also [other](https://stackoverflow.com/questions/10458610/how-can-i-disable-phps-easter-egg-urls) easter eggs. Not sure if they've been disabled in any recent PHP versions.
+**Note: ONLY WORKS BEFORE PHP5.5**
+
+If `expose_php` hasn't been set to off in the Apache conf file \(which also hides .php extensions\), then you can put this as an argument to get php info: `?=PHPB8B5F2A0-3C92-11d3-A3A9-4C7B08C10000` .  There are also [other](https://stackoverflow.com/questions/10458610/how-can-i-disable-phps-easter-egg-urls) easter eggs. 
+
+### Default Headers
 
 The PHP session ID cookie's name defaults to "PHPSESSIONID".
 
 The website might have "X-powered by PHP" in a HTTP response header.
 
+## Vendor Identifiers
+
+If the site you are looking at has been created by a third party vendor, you might see a variant of “Powered by Third-Party-Developer-Company” somewhere at the bottom of the home page.
+
+Use this to see what types of frameworks and version numbers they use. 
+
+If the vendor is a software development company, they may have left behind an admin user or test account for customer support purposes. When enumerating usernames, you can take this into account. For example, if the contractor company was called “Example Developers” then try 001Example, Example001, 00example, example00 and so on
 
 
-
-
-
-
-Find out PHP version
-
-
-
-\(all of these removed since PHP 5.5, I can't get them to work anymore\)
-
-Either through php info above, or by identifying what logo it has
-
-https://labs.detectify.com/2012/10/29/do-you-dare-to-show-your-php-easter-egg/
 
 
 
