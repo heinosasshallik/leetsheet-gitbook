@@ -8,7 +8,10 @@
 
 ## Web App Hacking
 
-* [Untitled](web-app-hacking/untitled.md)
+* [Enumeration](web-app-hacking/enumeration.md)
+* [Exploitation](web-app-hacking/exploitation/README.md)
+  * [Attack Users](web-app-hacking/exploitation/attack-users/README.md)
+    * [CORS Misconfigurations](web-app-hacking/exploitation/attack-users/cors-misconfigurations.md)
 
 ## Network Hacking
 
