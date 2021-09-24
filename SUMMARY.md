@@ -17,9 +17,13 @@
   * [Directory Enumeration](web-app-hacking/enumeration/directory-enumeration/README.md)
     * [Automated Directory Enumeration](web-app-hacking/enumeration/directory-enumeration/automated-directory-enumeration.md)
     * [Manual Directory Enumeration](web-app-hacking/enumeration/directory-enumeration/manual-directory-enumeration.md)
+  * [Automated Web Technology Detection](web-app-hacking/enumeration/automated-web-technology-detection.md)
 * [Exploitation](web-app-hacking/exploitation/README.md)
-  * [Attack Users](web-app-hacking/exploitation/attack-users/README.md)
-    * [CORS Misconfigurations](web-app-hacking/exploitation/attack-users/cors-misconfigurations.md)
+  * [User Attacks](web-app-hacking/exploitation/user-attacks/README.md)
+    * [CORS Misconfigurations](web-app-hacking/exploitation/user-attacks/cors-misconfigurations.md)
+  * [Database Attacks](web-app-hacking/exploitation/database-attacks.md)
+  * [Server Attacks](web-app-hacking/exploitation/server-attacks.md)
+  * [DNS Attacks](web-app-hacking/exploitation/dns-attacks.md)
 
 ## Network Hacking
 
