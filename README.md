@@ -1,12 +1,29 @@
 ---
-description: Landing Page
+description: Landing Page & Menu
 ---
 
 # Leet Sheet
 
-## Welcome
+## Getting Super Powers
 
-Here's where I keep everything I've learned about infosec \(and found important enough to write up so I can reference it later\). I hope you enjoy!
+Becoming a super hero is a fairly straight forward process:
+
+```
+$ give me super-powers
+```
+
+{% hint style="info" %}
+ Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+{% endhint %}
+
+Once you're strong enough, save the world:
+
+{% code title="hello.sh" %}
+```bash
+# Ain't no code for that yet, sorry
+echo 'You got to trust me on this, I saved the world'
+```
+{% endcode %}
 
 
 
