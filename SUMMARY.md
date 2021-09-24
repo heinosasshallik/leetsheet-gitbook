@@ -6,7 +6,7 @@
 
 * [Automated Reconnaissance](reconnaissance/automated-reconnaissance.md)
 * [Domains](reconnaissance/dns-recon.md)
-* [Google Fu](reconnaissance/google-fu.md)
+* [Google-Fu](reconnaissance/google-fu.md)
 
 ## Web App Hacking
 
