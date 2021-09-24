@@ -4,7 +4,7 @@
 
 ## Reconnaissance
 
-* [Untitled](reconnaissance/untitled.md)
+* [Automated Reconnaissance](reconnaissance/automated-reconnaissance.md)
 
 ## Web App Hacking
 
