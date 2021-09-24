@@ -82,6 +82,12 @@ curl -silent https://scans.io/data/rapid7/sonar.fdns_v2/20170417-fdns.json.gz | 
 
 The database is 19GB compressed and 300GB uncompressed though. You’ll have to download it and uncompress it so make sure you have a good internet and lots of disk space.
 
+## Sublist3r
+
+ Is a tool that uses a lot of different search engines and aggregates the data.
+
+https://github.com/aboul3la/Sublist3r
+
 
 
 

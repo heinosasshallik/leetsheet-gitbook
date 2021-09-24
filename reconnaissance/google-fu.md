@@ -1,8 +1,22 @@
----
-description: AKA Manually Looking Up Web Resources
----
+# Scour the Web
 
-# Google-Fu
+## Google Fu
+
+### Subdomain Enumeration
+
+&lt;Keyword&gt; &lt;site name&gt;
+
+```text
+site:*.wikimedia.org 
+```
+
+### File Extensions
+
+Find php \(or any datatype\), txt and log files
+
+```text
+site:*.example.org ext:php | ext:txt | ext:log
+```
 
 ## Old Files
 
@@ -46,4 +60,13 @@ Search these in password dumps, correlate with admin accounts.
 
 Ripe.net - whois  
 Internet.ee - whois for estonian sites
+
+## Virustotal
+
+Surprisingly, you can get a bunch of information from virustotal:
+
+* Subdomains
+* Scanned files
+
+Go to "Search" on [virustotal](https://www.virustotal.com) and search for the domain you care about.
 
