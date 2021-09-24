@@ -5,6 +5,7 @@
 ## Reconnaissance
 
 * [Automated Reconnaissance](reconnaissance/automated-reconnaissance.md)
+* [DNS Recon](reconnaissance/dns-recon.md)
 
 ## Web App Hacking
 
