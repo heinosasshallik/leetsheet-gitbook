@@ -11,7 +11,10 @@
 
 ## Web App Hacking
 
-* [Enumeration](web-app-hacking/enumeration.md)
+* [Enumeration](web-app-hacking/enumeration/README.md)
+  * [Webserver Virtualhost Subdomains](web-app-hacking/enumeration/webserver-virtualhost-subdomains.md)
+  * [Common Identifiers](web-app-hacking/enumeration/common-identifiers.md)
+  * [Directory Enumeration](web-app-hacking/enumeration/directory-enumeration.md)
 * [Exploitation](web-app-hacking/exploitation/README.md)
   * [Attack Users](web-app-hacking/exploitation/attack-users/README.md)
     * [CORS Misconfigurations](web-app-hacking/exploitation/attack-users/cors-misconfigurations.md)
