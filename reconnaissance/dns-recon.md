@@ -18,7 +18,9 @@ If you've identified a DNS nameserver, then you can query that server with [dig]
 
 Use a dictionary attack to enumerate subdomains against a DNS server.
 
-`python dnsrecon.py -n ns1.insecuredns.com -d insecuredns.com -D subdomains-top1mil-5000.txt -t brt`
+```bash
+python dnsrecon.py -n ns1.insecuredns.com -d insecuredns.com -D subdomains-top1mil-5000.txt -t brt
+```
 
 
 
