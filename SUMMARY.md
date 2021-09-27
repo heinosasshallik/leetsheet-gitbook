@@ -27,6 +27,7 @@
     * [Cross Site Request Forgery \(CSRF\)](web-app-hacking/exploitation/user-attacks/cross-site-request-forgery-csrf.md)
     * [CSS Injection](web-app-hacking/exploitation/user-attacks/css-injection.md)
     * [Session Fixation](web-app-hacking/exploitation/user-attacks/session-fixation.md)
+    * [XSS/Cross Site Scripting](web-app-hacking/exploitation/user-attacks/xss-cross-site-scripting.md)
   * [Database Attacks](web-app-hacking/exploitation/database-attacks.md)
   * [Server Attacks](web-app-hacking/exploitation/server-attacks.md)
   * [DNS Attacks](web-app-hacking/exploitation/dns-attacks.md)
