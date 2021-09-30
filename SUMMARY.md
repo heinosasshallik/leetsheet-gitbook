@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Leet Sheet](README.md)
+* [TODO](todo.md)
 
 ## Reconnaissance
 
