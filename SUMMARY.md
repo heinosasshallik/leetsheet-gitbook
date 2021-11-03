@@ -25,15 +25,30 @@
     * [DNS Rebinding](web-app-hacking/exploitation/user-attacks/dns-rebinding.md)
     * [Open Redirect](web-app-hacking/exploitation/user-attacks/open-redirect.md)
     * [Clickjacking](web-app-hacking/exploitation/user-attacks/clickjacking.md)
-    * [Cross Site Request Forgery \(CSRF\)](web-app-hacking/exploitation/user-attacks/cross-site-request-forgery-csrf.md)
+    * [Cross Site Request Forgery (CSRF)](web-app-hacking/exploitation/user-attacks/cross-site-request-forgery-csrf.md)
     * [Session Fixation](web-app-hacking/exploitation/user-attacks/session-fixation.md)
     * [XSS/Cross Site Scripting](web-app-hacking/exploitation/user-attacks/xss-cross-site-scripting.md)
     * [CSS Injection](web-app-hacking/exploitation/user-attacks/css-injection.md)
     * [HTML Injection](web-app-hacking/exploitation/user-attacks/html-injection.md)
     * [Phishing](web-app-hacking/exploitation/user-attacks/phishing.md)
-  * [Database Attacks](web-app-hacking/exploitation/database-attacks.md)
-  * [Server Attacks](web-app-hacking/exploitation/server-attacks.md)
+  * [Database Attacks](web-app-hacking/exploitation/database-attacks/README.md)
+    * [SQL Injection](web-app-hacking/exploitation/database-attacks/sql-injection.md)
+    * [NoSQL Injection](web-app-hacking/exploitation/database-attacks/nosql-injection.md)
+    * [LDAP Injection](web-app-hacking/exploitation/database-attacks/ldap-injection.md)
+    * [Get a Shell From DB Connection](web-app-hacking/exploitation/database-attacks/get-a-shell-from-db-connection.md)
+  * [Server Attacks](web-app-hacking/exploitation/server-attacks/README.md)
+    * [Collisions](web-app-hacking/exploitation/server-attacks/collisions.md)
+    * [Server Side Request Forgery](web-app-hacking/exploitation/server-attacks/server-side-request-forgery.md)
+    * [Insecure Direct Object Reference](web-app-hacking/exploitation/server-attacks/insecure-direct-object-reference.md)
+    * [Timing-Based Side-Channel Attacks](web-app-hacking/exploitation/server-attacks/timing-based-side-channel-attacks.md)
+    * [Attacking Authentication Methods](web-app-hacking/exploitation/server-attacks/attacking-authentication-methods/README.md)
+      * [JWT Attacks](web-app-hacking/exploitation/server-attacks/attacking-authentication-methods/jwt-attacks.md)
+    * [Page 4](web-app-hacking/exploitation/server-attacks/page-4.md)
+    * [Page 3](web-app-hacking/exploitation/server-attacks/page-3.md)
+    * [Page 2](web-app-hacking/exploitation/server-attacks/page-2.md)
+    * [Page 1](web-app-hacking/exploitation/server-attacks/page-1.md)
   * [DNS Attacks](web-app-hacking/exploitation/dns-attacks.md)
+  * [Cloud Attacks](web-app-hacking/exploitation/cloud-attacks.md)
 
 ## Network Hacking
 
@@ -58,4 +73,3 @@
 ## Physical Security
 
 * [Untitled](physical-security/untitled.md)
-
