@@ -50,6 +50,7 @@
     * [Page 1](web-app-hacking/exploitation/server-attacks/page-1.md)
   * [DNS Attacks](web-app-hacking/exploitation/dns-attacks.md)
   * [Cloud Attacks](web-app-hacking/exploitation/cloud-attacks.md)
+  * [Interesting Outdated Attacks](web-app-hacking/exploitation/interesting-outdated-attacks.md)
 
 ## Network Hacking
 
