@@ -33,7 +33,6 @@
     * [Phishing](web-app-hacking/exploitation/user-attacks/phishing.md)
   * [Database Attacks](web-app-hacking/exploitation/database-attacks/README.md)
     * [SQL Injection](web-app-hacking/exploitation/database-attacks/sql-injection.md)
-    * [SQL Truncation](web-app-hacking/exploitation/database-attacks/sql-truncation.md)
     * [NoSQL Injection](web-app-hacking/exploitation/database-attacks/nosql-injection.md)
     * [LDAP Injection](web-app-hacking/exploitation/database-attacks/ldap-injection.md)
     * [Get a Shell From DB Connection](web-app-hacking/exploitation/database-attacks/get-a-shell-from-db-connection.md)
@@ -50,7 +49,8 @@
     * [Page 1](web-app-hacking/exploitation/server-attacks/page-1.md)
   * [DNS Attacks](web-app-hacking/exploitation/dns-attacks.md)
   * [Cloud Attacks](web-app-hacking/exploitation/cloud-attacks.md)
-  * [Interesting Outdated Attacks](web-app-hacking/exploitation/interesting-outdated-attacks.md)
+  * [Interesting Outdated Attacks](web-app-hacking/exploitation/interesting-outdated-attacks/README.md)
+    * [SQL Truncation](web-app-hacking/exploitation/interesting-outdated-attacks/sql-truncation.md)
 
 ## Network Hacking
 
