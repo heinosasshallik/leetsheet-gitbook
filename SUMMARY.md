@@ -33,8 +33,6 @@
     * [Phishing](web-app-hacking/exploitation/user-attacks/phishing.md)
   * [Database Attacks](web-app-hacking/exploitation/database-attacks/README.md)
     * [SQL Injection](web-app-hacking/exploitation/database-attacks/sql-injection.md)
-    * [NoSQL Injection](web-app-hacking/exploitation/database-attacks/nosql-injection.md)
-    * [LDAP Injection](web-app-hacking/exploitation/database-attacks/ldap-injection.md)
     * [Get a Shell From DB Connection](web-app-hacking/exploitation/database-attacks/get-a-shell-from-db-connection.md)
   * [Server Attacks](web-app-hacking/exploitation/server-attacks/README.md)
     * [Collisions](web-app-hacking/exploitation/server-attacks/collisions.md)
