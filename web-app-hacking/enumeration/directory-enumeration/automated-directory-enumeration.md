@@ -34,7 +34,7 @@ Flags:
 * `--discover-backup` : Upon finding a file, search for backup files
   * [Not working correctly at the moment](https://github.com/OJ/gobuster/issues/298).
 
-_Note: If you specify -x, then don’t worry, it also includes files without file extension_
+_Note: If you specify -x, then don’t worry, it also includes files without file extension_
 
 
 
