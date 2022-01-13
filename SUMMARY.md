@@ -41,7 +41,7 @@
     * [Timing-Based Side-Channel Attacks](web-app-hacking/exploitation/server-attacks/timing-based-side-channel-attacks.md)
     * [Attacking Authentication Methods](web-app-hacking/exploitation/server-attacks/attacking-authentication-methods/README.md)
       * [JWT Attacks](web-app-hacking/exploitation/server-attacks/attacking-authentication-methods/jwt-attacks.md)
-    * [Cloud Services](web-app-hacking/exploitation/server-attacks/page-4/README.md)
+    * [Cloud Services](web-app-hacking/exploitation/server-attacks/page-4.md)
       * [Amazon Web Services](web-app-hacking/exploitation/server-attacks/page-4/amazon-web-services.md)
     * [Page 4](web-app-hacking/exploitation/server-attacks/page-4-1.md)
     * [Page 3](web-app-hacking/exploitation/server-attacks/page-3.md)
