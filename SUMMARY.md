@@ -41,7 +41,7 @@
     * [Timing-Based Side-Channel Attacks](web-app-hacking/exploitation/server-attacks/timing-based-side-channel-attacks.md)
     * [Attacking Authentication Methods](web-app-hacking/exploitation/server-attacks/attacking-authentication-methods/README.md)
       * [JWT Attacks](web-app-hacking/exploitation/server-attacks/attacking-authentication-methods/jwt-attacks.md)
-      * [Page 9](web-app-hacking/exploitation/server-attacks/attacking-authentication-methods/page-9.md)
+      * [Brute Forcing Web Forms](web-app-hacking/exploitation/server-attacks/attacking-authentication-methods/brute-forcing-web-forms.md)
       * [Page 8](web-app-hacking/exploitation/server-attacks/attacking-authentication-methods/page-8.md)
       * [Page 7](web-app-hacking/exploitation/server-attacks/attacking-authentication-methods/page-7.md)
       * [Page 6](web-app-hacking/exploitation/server-attacks/attacking-authentication-methods/page-6.md)
