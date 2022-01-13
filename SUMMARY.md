@@ -49,7 +49,8 @@
     * [Page 2](web-app-hacking/exploitation/server-attacks/page-2.md)
     * [Page 1](web-app-hacking/exploitation/server-attacks/page-1.md)
   * [DNS Attacks](web-app-hacking/exploitation/dns-attacks.md)
-  * [Cloud Attacks](web-app-hacking/exploitation/cloud-attacks.md)
+  * [Cloud Attacks](web-app-hacking/exploitation/cloud-attacks/README.md)
+    * [Amazon Web Services](web-app-hacking/exploitation/cloud-attacks/amazon-web-services.md)
   * [Interesting Outdated Attacks](web-app-hacking/exploitation/interesting-outdated-attacks/README.md)
     * [SQL Truncation](web-app-hacking/exploitation/interesting-outdated-attacks/sql-truncation.md)
 
