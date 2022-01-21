@@ -43,7 +43,7 @@
       * [JWT Attacks](web-app-hacking/exploitation/server-attacks/attacking-authentication-methods/jwt-attacks.md)
       * [Brute Forcing Web Forms](web-app-hacking/exploitation/server-attacks/attacking-authentication-methods/brute-forcing-web-forms.md)
     * [Loose Comparisons](web-app-hacking/exploitation/server-attacks/loose-comparisons.md)
-    * [Page 3](web-app-hacking/exploitation/server-attacks/page-3.md)
+    * [Unrestricted File Upload](web-app-hacking/exploitation/server-attacks/page-3.md)
     * [Page 2](web-app-hacking/exploitation/server-attacks/page-2.md)
     * [Page 1](web-app-hacking/exploitation/server-attacks/page-1.md)
   * [DNS Attacks](web-app-hacking/exploitation/dns-attacks.md)
