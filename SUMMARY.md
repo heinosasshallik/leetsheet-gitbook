@@ -45,7 +45,7 @@
     * [Loose Comparisons](web-app-hacking/exploitation/server-attacks/loose-comparisons.md)
     * [Unrestricted File Upload](web-app-hacking/exploitation/server-attacks/page-3.md)
     * [Insecure Deserialization](web-app-hacking/exploitation/server-attacks/page-2.md)
-    * [Page 1](web-app-hacking/exploitation/server-attacks/page-1.md)
+    * [Command Injection](web-app-hacking/exploitation/server-attacks/page-1.md)
   * [DNS Attacks](web-app-hacking/exploitation/dns-attacks.md)
   * [Cloud Attacks](web-app-hacking/exploitation/cloud-attacks.md)
     * [Amazon Web Services](web-app-hacking/exploitation/cloud-attacks/amazon-web-services.md)
