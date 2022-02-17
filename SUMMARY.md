@@ -48,7 +48,7 @@
     * [Command Injection](web-app-hacking/exploitation/server-attacks/page-1.md)
     * [Path Traversal](web-app-hacking/exploitation/server-attacks/path-traversal.md)
     * [File Inclusion](web-app-hacking/exploitation/server-attacks/file-inclusion-todo-complete-this.md)
-    * [Page 2](web-app-hacking/exploitation/server-attacks/page-2-1.md)
+    * [Server-Side Template Injection](web-app-hacking/exploitation/server-attacks/server-side-template-injection.md)
     * [Page 1](web-app-hacking/exploitation/server-attacks/page-1-1.md)
   * [DNS Attacks](web-app-hacking/exploitation/dns-attacks.md)
   * [Cloud Attacks](web-app-hacking/exploitation/cloud-attacks.md)
