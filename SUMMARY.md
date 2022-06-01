@@ -62,7 +62,9 @@
 
 ## Post Exploitation
 
-* [Untitled](post-exploitation/untitled.md)
+* [Windows](post-exploitation/untitled.md)
+* [Linux](post-exploitation/linux/README.md)
+  * [Backdoors](post-exploitation/linux/backdoors.md)
 
 ## Blue Team
 
