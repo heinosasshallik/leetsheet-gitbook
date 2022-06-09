@@ -49,7 +49,7 @@
     * [Path Traversal](web-app-hacking/exploitation/server-attacks/path-traversal.md)
     * [File Inclusion](web-app-hacking/exploitation/server-attacks/file-inclusion-todo-complete-this.md)
     * [Server-Side Template Injection](web-app-hacking/exploitation/server-attacks/server-side-template-injection.md)
-    * [Page 1](web-app-hacking/exploitation/server-attacks/page-1-1.md)
+    * [XML External Entities Injection (XXE)](web-app-hacking/exploitation/server-attacks/xml-external-entities-injection-xxe.md)
   * [DNS Attacks](web-app-hacking/exploitation/dns-attacks.md)
   * [Cloud Attacks](web-app-hacking/exploitation/cloud-attacks.md)
     * [Amazon Web Services](web-app-hacking/exploitation/cloud-attacks/amazon-web-services.md)
