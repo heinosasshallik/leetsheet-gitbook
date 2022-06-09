@@ -51,7 +51,7 @@
     * [Server-Side Template Injection](web-app-hacking/exploitation/server-attacks/server-side-template-injection.md)
     * [XML External Entities Injection (XXE)](web-app-hacking/exploitation/server-attacks/page-1-1.md)
     * [Server Misconfigurations](web-app-hacking/exploitation/server-attacks/server-misconfigurations.md)
-    * [Page 2](web-app-hacking/exploitation/server-attacks/page-2-1.md)
+    * [Parser Inconsistencies](web-app-hacking/exploitation/server-attacks/parser-inconsistencies.md)
     * [Page 1](<web-app-hacking/exploitation/server-attacks/page-1-1 (1).md>)
   * [DNS Attacks](web-app-hacking/exploitation/dns-attacks.md)
   * [Cloud Attacks](web-app-hacking/exploitation/cloud-attacks.md)
