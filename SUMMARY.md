@@ -65,6 +65,7 @@
 * [RPC](network-hacking/rpc.md)
 * [LDAP](network-hacking/ldap.md)
 * [SMB](network-hacking/smb.md)
+* [SNMP](network-hacking/snmp.md)
 
 ## Post Exploitation
 
