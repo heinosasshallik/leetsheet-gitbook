@@ -64,6 +64,7 @@
 * [General Enumeration](network-hacking/untitled.md)
 * [RPC](network-hacking/rpc.md)
 * [LDAP](network-hacking/ldap.md)
+* [SMB](network-hacking/smb.md)
 
 ## Post Exploitation
 
