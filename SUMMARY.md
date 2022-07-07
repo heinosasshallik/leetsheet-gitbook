@@ -79,7 +79,7 @@
 * [Windows](post-exploitation/untitled.md)
   * [CLI Tips](post-exploitation/untitled/cli-tips.md)
   * [Shells](post-exploitation/untitled/shells.md)
-  * [Page 3](post-exploitation/untitled/page-3.md)
+  * [Windows Script Host](post-exploitation/untitled/windows-script-host.md)
   * [Page 2](post-exploitation/untitled/page-2.md)
   * [Page 1](post-exploitation/untitled/page-1.md)
 * [Linux](post-exploitation/linux/README.md)
