@@ -67,6 +67,7 @@
 * [SMB](network-hacking/smb.md)
 * [SNMP](network-hacking/snmp.md)
 * [WMI](network-hacking/wmi.md)
+* [SSH](network-hacking/ssh.md)
 
 ## Post Exploitation
 
