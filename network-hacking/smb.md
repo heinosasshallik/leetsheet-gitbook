@@ -22,11 +22,13 @@ Enter any password or supply the --no-pass flag.
 
 The NTLM hash of a user’s password is used in the NTLM challenge-response authentication protocol. Therefore, if you know the user’s NTLM hash, you can impersonate that user for services that rely on NTLM challenge-response.
 
-_Note: If you just have the NT hash, then you can just input the NT hash twice. No one really checks the LM hash anyways._
+Smbmap to enumerate an SMB share:
 
 ```
 smbmap -u USERNAME -p 0B186E661BBDBDCF6047784DE8B9FD8B:0B186E661BBDBDCF6047784DE8B9FD8B -H HOST
 ```
+
+_Note: If you just have the NT hash, then you can just input the NT hash twice. No one really checks the LM hash anyways._
 
 Execute commands over SMB (requires write permissions):
 
