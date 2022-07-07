@@ -1,8 +1,4 @@
----
-description: General enumeration
----
-
-# Enumeration
+# General Enumeration
 
 ## SSH Version
 
@@ -47,4 +43,33 @@ Finding nmap scripts:
 
 ```
 locate *.nse
+```
+
+## AutoRecon
+
+Autorecon is a script for automating your network enumeration activities. It can save you a lot of time and make sure you don't forget to enumerate anything you should.
+
+Installation:
+
+```
+sudo apt install python3-pip
+sudo python3 -m pip install git+https://github.com/Tib3rius/AutoRecon.git
+```
+
+Simple usage:
+
+```
+sudo autorecon target_hostname
+```
+
+I have customized AutoRecon to my needs. I host my custom AutoRecon plugins [here](https://github.com/heinosasshallik/infosec-knowledge/tree/master/scripts/autorecon\_plugins). When I run AutoRecon, I separately scan for directories using a huge wordlist, and then scan for files with a smaller wordlist and a few manually selected file extensions:
+
+```
+sudo $(which autorecon) target_hostname \
+  --single-target \     
+  --output autorecon \
+  --dirbuster.tool gobuster \
+  --dirbuster.wordlist "/home/x90slide/resources/infosec-knowledge/wordlists/web_content/combined_directories.txt" \
+  --dirbuster.ext "" \
+  --dirbuster-manual-extensions.wordlist "/home/x90slide/resources/infosec-knowledge/wordlists/web_content/combined_words.txt"
 ```

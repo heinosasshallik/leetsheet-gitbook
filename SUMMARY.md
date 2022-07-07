@@ -61,7 +61,7 @@
 
 ## Network Hacking
 
-* [Enumeration](network-hacking/untitled.md)
+* [General Enumeration](network-hacking/untitled.md)
 
 ## Post Exploitation
 
