@@ -76,7 +76,8 @@
 
 ## Post Exploitation
 
-* [Windows](post-exploitation/untitled.md)
+* [Windows](post-exploitation/untitled/README.md)
+  * [Windows CLI Tips](post-exploitation/untitled/windows-cli-tips.md)
 * [Linux](post-exploitation/linux/README.md)
   * [Backdoors](post-exploitation/linux/backdoors.md)
 
