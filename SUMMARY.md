@@ -70,6 +70,7 @@
 * [WMI](network-hacking/wmi.md)
 * [SSH](network-hacking/ssh.md)
 * [Kerberos](network-hacking/kerberos.md)
+* [NTLM](network-hacking/ntlm.md)
 
 ## Post Exploitation
 
