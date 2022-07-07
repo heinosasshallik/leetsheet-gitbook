@@ -42,3 +42,4 @@ You can get NTLM traffic in several ways
 Use ntlmrelayx for this. Here’s a good blog post detailing how it’s done:
 
 {% embed url="https://www.fox-it.com/en/insights/blogs/blog/inside-windows-network/" %}
+
