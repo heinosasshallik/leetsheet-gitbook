@@ -72,6 +72,7 @@
 * [Kerberos](network-hacking/kerberos.md)
 * [NTLM](network-hacking/ntlm.md)
 * [Man-In-the-Middle (MITM)](network-hacking/man-in-the-middle-mitm.md)
+* [WinRM](network-hacking/winrm.md)
 
 ## Post Exploitation
 
