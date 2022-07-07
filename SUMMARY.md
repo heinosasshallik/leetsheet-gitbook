@@ -52,7 +52,7 @@
     * [XML External Entities Injection (XXE)](web-app-hacking/exploitation/server-attacks/page-1-1.md)
     * [Server Misconfigurations](web-app-hacking/exploitation/server-attacks/server-misconfigurations.md)
     * [Parser Inconsistencies](web-app-hacking/exploitation/server-attacks/parser-inconsistencies.md)
-    * [Page 1](<web-app-hacking/exploitation/server-attacks/page-1-1 (1).md>)
+    * [Bypassing WAFs](web-app-hacking/exploitation/server-attacks/bypassing-wafs.md)
   * [DNS Attacks](web-app-hacking/exploitation/dns-attacks.md)
   * [Cloud Attacks](web-app-hacking/exploitation/cloud-attacks.md)
     * [Amazon Web Services](web-app-hacking/exploitation/cloud-attacks/amazon-web-services.md)
