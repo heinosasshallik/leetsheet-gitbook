@@ -100,9 +100,8 @@
     * [Wildcard Injection](post-exploitation/linux/linux-privilege-escalation/wildcard-injection.md)
     * [Docker group/LXD group](post-exploitation/linux/linux-privilege-escalation/docker-group-lxd-group.md)
     * [Password Reuse](post-exploitation/linux/linux-privilege-escalation/password-reuse.md)
-    * [Page 5](post-exploitation/linux/linux-privilege-escalation/page-5.md)
-    * [Page 1](post-exploitation/linux/linux-privilege-escalation/page-1.md)
   * [Backdoors](post-exploitation/linux/backdoors.md)
+* [General](post-exploitation/general.md)
 
 ## Blue Team
 
