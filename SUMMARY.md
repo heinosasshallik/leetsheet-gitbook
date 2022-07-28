@@ -80,7 +80,7 @@
   * [CLI Tips](post-exploitation/untitled/cli-tips.md)
   * [Shells](post-exploitation/untitled/shells.md)
   * [Windows Script Host](post-exploitation/untitled/page-3.md)
-  * [Page 1](post-exploitation/untitled/page-1.md)
+  * [Windows Privilege Escalation](post-exploitation/untitled/windows-privilege-escalation.md)
 * [Linux](post-exploitation/linux/README.md)
   * [Backdoors](post-exploitation/linux/backdoors.md)
 
