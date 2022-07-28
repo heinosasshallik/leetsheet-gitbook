@@ -112,7 +112,7 @@
 * [CVEs](various/untitled.md)
 * [SSH Agent Hijacking](various/ssh-agent-hijacking.md)
 * [Password Cracking](various/password-cracking.md)
-* [Page 2](various/page-2.md)
+* [Crypto](various/crypto.md)
 
 ## Binary Exploitation
 
