@@ -113,6 +113,8 @@
 * [SSH Agent Hijacking](various/ssh-agent-hijacking.md)
 * [Password Cracking](various/password-cracking.md)
 * [Crypto](various/crypto.md)
+* [Non-Hacking](various/non-hacking.md)
+* [Page 1](various/page-1.md)
 
 ## Binary Exploitation
 
