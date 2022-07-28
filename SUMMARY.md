@@ -109,7 +109,10 @@
 
 ## Various
 
-* [Untitled](various/untitled.md)
+* [CVEs](various/untitled.md)
+* [SSH Agent Hijacking](various/ssh-agent-hijacking.md)
+* [Password Cracking](various/password-cracking.md)
+* [Page 2](various/page-2.md)
 
 ## Binary Exploitation
 
