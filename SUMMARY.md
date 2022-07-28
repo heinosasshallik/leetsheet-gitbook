@@ -120,6 +120,8 @@
 
 * [Resources](binary-exploitation/untitled.md)
 * [Base Knowledge](binary-exploitation/base-knowledge.md)
+* [Format String Exploits](binary-exploitation/format-string-exploits.md)
+* [Stack Smashing](binary-exploitation/stack-smashing.md)
 
 ## Physical Security
 
