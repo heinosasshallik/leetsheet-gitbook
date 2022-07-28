@@ -96,8 +96,11 @@
     * [SUID Bit](post-exploitation/linux/linux-privilege-escalation/suid-bit.md)
     * [Dot (.) In PATH](post-exploitation/linux/linux-privilege-escalation/dot-.-in-path.md)
     * [Escape From Restricted Shell](post-exploitation/linux/linux-privilege-escalation/escape-from-restricted-shell.md)
-    * [Wildcard Injection](post-exploitation/linux/linux-privilege-escalation/wildcard-injection.md)
     * [Symlink Trickery](post-exploitation/linux/linux-privilege-escalation/symlink-trickery.md)
+    * [Wildcard Injection](post-exploitation/linux/linux-privilege-escalation/wildcard-injection.md)
+    * [Page 3](post-exploitation/linux/linux-privilege-escalation/page-3.md)
+    * [Page 2](post-exploitation/linux/linux-privilege-escalation/page-2.md)
+    * [Page 5](post-exploitation/linux/linux-privilege-escalation/page-5.md)
     * [Page 1](post-exploitation/linux/linux-privilege-escalation/page-1.md)
   * [Backdoors](post-exploitation/linux/backdoors.md)
 
