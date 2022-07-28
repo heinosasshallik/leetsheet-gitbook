@@ -94,7 +94,7 @@
   * [Linux Privilege Escalation](post-exploitation/linux/linux-privilege-escalation/README.md)
     * [Enumeration](post-exploitation/linux/linux-privilege-escalation/enumeration.md)
     * [SUID Bit](post-exploitation/linux/linux-privilege-escalation/suid-bit.md)
-    * [Page 2](post-exploitation/linux/linux-privilege-escalation/page-2.md)
+    * [Dot (.) In PATH](post-exploitation/linux/linux-privilege-escalation/dot-.-in-path.md)
     * [Page 1](post-exploitation/linux/linux-privilege-escalation/page-1.md)
   * [Backdoors](post-exploitation/linux/backdoors.md)
 
