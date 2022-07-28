@@ -89,6 +89,7 @@
   * [Dumping Passwords](post-exploitation/untitled/dumping-passwords.md)
   * [NTLM Hash Theft](post-exploitation/untitled/ntlm-hash-theft.md)
 * [Linux](post-exploitation/linux/README.md)
+  * [Port Forwarding](post-exploitation/linux/port-forwarding.md)
   * [Backdoors](post-exploitation/linux/backdoors.md)
 
 ## Blue Team
