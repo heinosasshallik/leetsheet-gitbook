@@ -80,7 +80,7 @@
   * [CLI Tips](post-exploitation/untitled/cli-tips.md)
   * [Shells](post-exploitation/untitled/shells.md)
   * [Windows Script Host](post-exploitation/untitled/page-3.md)
-  * [Windows Privilege Escalation](post-exploitation/untitled/windows-privilege-escalation/README.md)
+  * [Windows Privilege Escalation](post-exploitation/untitled/page-1.md)
     * [Enumeration](post-exploitation/untitled/windows-privilege-escalation/enumeration.md)
     * [JuicyPotato/RottenPotato](post-exploitation/untitled/windows-privilege-escalation/juicypotato-rottenpotato.md)
     * [Kernel Exploits](post-exploitation/untitled/windows-privilege-escalation/kernel-exploits.md)
