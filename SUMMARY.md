@@ -114,7 +114,7 @@
 * [Password Cracking](various/password-cracking.md)
 * [Crypto](various/crypto.md)
 * [Non-Hacking](various/non-hacking.md)
-* [Page 1](various/page-1.md)
+* [Malware](various/malware.md)
 
 ## Binary Exploitation
 
