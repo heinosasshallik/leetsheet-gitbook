@@ -112,3 +112,20 @@ binwalk -e file.jpg
 ```
 
 Though, keep in mind that [it's normal for images to contain zlib compressed data.](https://security.stackexchange.com/questions/144530/what-to-do-with-output-files-from-binwalk/144593)
+
+## OS Install
+
+### Windows
+
+A non-activated official version of Windows can be installed from Microsoft’s website. Use either windows’ own tool (didn’t work for me) or [Rufus](https://rufus.ie/en/) to install onto USB. Use a good USB that has at least 8GB space.
+
+HWIDGEN is frequently used to **illegally** activate Windows for free.
+
+## Persistent Kali
+
+Use this guide
+
+{% embed url="https://devanswers.co/guide-kali-linux-2018-live-usb-encrypted-persistence-windows/" %}
+
+When writing `persistence.conf`, instead of following the instructions, go there with `cd` and write the file using `touch` and `nano`.
+
