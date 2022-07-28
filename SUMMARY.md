@@ -86,6 +86,7 @@
     * [Kernel Exploits](post-exploitation/untitled/windows-privilege-escalation/kernel-exploits.md)
     * [Unquoted Service Paths](post-exploitation/untitled/windows-privilege-escalation/unquoted-service-paths.md)
   * [Active Directory](post-exploitation/untitled/active-directory.md)
+  * [Dumping Passwords](post-exploitation/untitled/dumping-passwords.md)
 * [Linux](post-exploitation/linux/README.md)
   * [Backdoors](post-exploitation/linux/backdoors.md)
 
