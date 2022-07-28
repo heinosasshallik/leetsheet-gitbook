@@ -99,7 +99,7 @@
     * [Symlink Trickery](post-exploitation/linux/linux-privilege-escalation/symlink-trickery.md)
     * [Wildcard Injection](post-exploitation/linux/linux-privilege-escalation/wildcard-injection.md)
     * [Docker group/LXD group](post-exploitation/linux/linux-privilege-escalation/docker-group-lxd-group.md)
-    * [Page 2](post-exploitation/linux/linux-privilege-escalation/page-2.md)
+    * [Password Reuse](post-exploitation/linux/linux-privilege-escalation/password-reuse.md)
     * [Page 5](post-exploitation/linux/linux-privilege-escalation/page-5.md)
     * [Page 1](post-exploitation/linux/linux-privilege-escalation/page-1.md)
   * [Backdoors](post-exploitation/linux/backdoors.md)
