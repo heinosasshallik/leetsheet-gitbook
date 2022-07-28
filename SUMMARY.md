@@ -92,6 +92,7 @@
   * [Port Forwarding](post-exploitation/linux/port-forwarding.md)
   * [Enumeration](post-exploitation/linux/enumeration.md)
   * [Shells](post-exploitation/linux/shells.md)
+  * [Linux Privilege Escalation](post-exploitation/linux/linux-privilege-escalation.md)
   * [Backdoors](post-exploitation/linux/backdoors.md)
 
 ## Blue Team
