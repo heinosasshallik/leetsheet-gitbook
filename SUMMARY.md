@@ -84,6 +84,7 @@
     * [Enumeration](post-exploitation/untitled/windows-privilege-escalation/enumeration.md)
     * [JuicyPotato/RottenPotato](post-exploitation/untitled/windows-privilege-escalation/juicypotato-rottenpotato.md)
     * [Kernel Exploits](post-exploitation/untitled/windows-privilege-escalation/kernel-exploits.md)
+    * [Unquoted Service Paths](post-exploitation/untitled/windows-privilege-escalation/unquoted-service-paths.md)
 * [Linux](post-exploitation/linux/README.md)
   * [Backdoors](post-exploitation/linux/backdoors.md)
 
