@@ -90,9 +90,12 @@
   * [NTLM Hash Theft](post-exploitation/untitled/ntlm-hash-theft.md)
 * [Linux](post-exploitation/linux/README.md)
   * [Port Forwarding](post-exploitation/linux/port-forwarding.md)
-  * [Enumeration](post-exploitation/linux/enumeration.md)
   * [Shells](post-exploitation/linux/shells.md)
-  * [Linux Privilege Escalation](post-exploitation/linux/linux-privilege-escalation.md)
+  * [Linux Privilege Escalation](post-exploitation/linux/linux-privilege-escalation/README.md)
+    * [Enumeration](post-exploitation/linux/linux-privilege-escalation/enumeration.md)
+    * [SUID Bit](post-exploitation/linux/linux-privilege-escalation/suid-bit.md)
+    * [Page 2](post-exploitation/linux/linux-privilege-escalation/page-2.md)
+    * [Page 1](post-exploitation/linux/linux-privilege-escalation/page-1.md)
   * [Backdoors](post-exploitation/linux/backdoors.md)
 
 ## Blue Team
