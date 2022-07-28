@@ -114,11 +114,12 @@
 * [Password Cracking](various/password-cracking.md)
 * [Crypto](various/crypto.md)
 * [Non-Hacking](various/non-hacking.md)
-* [Malware](various/malware.md)
+* [Malware](various/page-1.md)
 
 ## Binary Exploitation
 
-* [Untitled](binary-exploitation/untitled.md)
+* [Resources](binary-exploitation/untitled.md)
+* [Base Knowledge](binary-exploitation/base-knowledge.md)
 
 ## Physical Security
 
