@@ -90,6 +90,7 @@
   * [NTLM Hash Theft](post-exploitation/untitled/ntlm-hash-theft.md)
 * [Linux](post-exploitation/linux/README.md)
   * [Port Forwarding](post-exploitation/linux/port-forwarding.md)
+  * [Enumeration](post-exploitation/linux/enumeration.md)
   * [Backdoors](post-exploitation/linux/backdoors.md)
 
 ## Blue Team
