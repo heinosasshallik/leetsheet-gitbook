@@ -122,6 +122,8 @@
 * [Base Knowledge](binary-exploitation/base-knowledge.md)
 * [Format String Exploits](binary-exploitation/format-string-exploits.md)
 * [Stack Smashing](binary-exploitation/stack-smashing.md)
+* [Heap Exploits](binary-exploitation/heap-exploits.md)
+* [Page 2](binary-exploitation/page-2.md)
 
 ## Physical Security
 
