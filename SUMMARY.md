@@ -126,6 +126,7 @@
 * [Time-of-Check to Time-of-Use (TOCTOU)](binary-exploitation/time-of-check-to-time-of-use-toctou.md)
 * [Shellcode](binary-exploitation/shellcode.md)
 * [Decompilation](binary-exploitation/decompilation.md)
+* [Debugging](binary-exploitation/debugging.md)
 
 ## Physical Security
 
