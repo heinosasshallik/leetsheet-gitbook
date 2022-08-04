@@ -130,6 +130,7 @@
 * [Exploit Mitigations and Protections](binary-exploitation/exploit-mitigations-and-protections.md)
 * [Exploit Protection Bypassing](binary-exploitation/exploit-protection-bypassing.md)
 * [Passing Input](binary-exploitation/passing-input.md)
+* [Fuzzing](binary-exploitation/fuzzing.md)
 
 ## Physical Security
 
