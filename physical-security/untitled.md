@@ -142,6 +142,8 @@ Timestamped demo
 
 If a shim can be inserted between the shackle and the locking bar, then nothing is keeping the shackle closed anymore. Can also work for handcuffs.
 
+{% embed url="https://youtu.be/c2DcfJLquOk" %}
+
 ## Latch Slipping Attacks
 
 {% embed url="https://www.go-rbcs.com/articles/the-deadlocking-plunger-weakness" %}
