@@ -127,6 +127,7 @@
 * [Shellcode](binary-exploitation/shellcode.md)
 * [Decompilation](binary-exploitation/decompilation.md)
 * [Debugging](binary-exploitation/debugging.md)
+* [Exploit Mitigations and Protections](binary-exploitation/exploit-mitigations-and-protections.md)
 
 ## Physical Security
 
