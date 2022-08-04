@@ -1,51 +1,40 @@
 # Other Attacks
 
-#### Door Hold-open <a href="#docs-internal-guid-cec39a15-7fff-03eb-e0de-48257eb7f728" id="docs-internal-guid-cec39a15-7fff-03eb-e0de-48257eb7f728"></a>
+## Door Hold-open <a href="#docs-internal-guid-374fb03f-7fff-0978-a49c-8e939d80bb35" id="docs-internal-guid-374fb03f-7fff-0978-a49c-8e939d80bb35"></a>
 
 Simply the act of sticking something in between a door so that it doesn’t fully close. I’ve heard of paperclips and gaffer tape being used for this.
 
-#### Hinge Pin attack
+## Hinge Pin attack
 
-If the hinge pins of a safe or door are on the attacker’s sice, then the attacker may attempt to remove them.
+If the hinge pins of a safe or door are on the attacker’s side, then the attacker may attempt to remove them.
 
-[https://www.youtube.com/watch?v=nJu\_-Iuppc0](https://www.youtube.com/watch?v=nJu\_-Iuppc0)
+{% embed url="https://www.youtube.com/watch?v=nJu_-Iuppc0" %}
 
-\
+This attack is stopped by security hinges and jamb pins.
 
-
-This attack is stopped by security hinges and jam pins.
-
-#### Door Gap attacks
+## Door Gap attacks
 
 If there’s enough of a gap in the door that you can get something through, then you might be able to operate the handle.
 
-**Over the door**
+### **Over the door**
 
 If the handle opens upwards, then you can lower movie film from over the door, hook the handle and pull it up.
 
-[https://www.youtube.com/watch?v=byYGPO4ptxs](https://www.youtube.com/watch?v=byYGPO4ptxs)
+{% embed url="https://www.youtube.com/watch?v=byYGPO4ptxs" %}
 
-**Under the door**
+### **Under the door**
 
-[https://www.youtube.com/watch?v=O74Q1VTz4j4](https://www.youtube.com/watch?v=O74Q1VTz4j4)
+{% embed url="https://www.youtube.com/watch?v=O74Q1VTz4j4" %}
 
 In a similar way, if you can get some wire through under the door, then you can pull the handle
 
-\
-
-
 Tool height is important. You want the end of the tool to be at the height of the door handle. Also, you want to keep the head of the tool against the door as you’re moving the tool into place. That way you won’t miss the handle.
 
-**Hook modification**
+#### **Hook modification**
 
-[https://www.youtube.com/watch?v=n4A7OaLgyk4\&list=PLwxkGxLTPJTlxkqsmsrWOnHAudf4rLv9A\&index=7](https://www.youtube.com/watch?v=n4A7OaLgyk4\&list=PLwxkGxLTPJTlxkqsmsrWOnHAudf4rLv9A\&index=7)
+{% embed url="https://www.youtube.com/watch?v=n4A7OaLgyk4&list=PLwxkGxLTPJTlxkqsmsrWOnHAudf4rLv9A&index=7" %}
 
-\
-
-
-For short-tail and flat bar handles, the conventional under door tool method won’t work. The tool will simply slip off the handle. For those cases, you can make a slight modification to your tool to include a hook, which will prevent the tool from slipping off.
-
-\
+For short-tail and flat bar handles, the conventional under door tool method won’t work. The tool will simply slip off the handle. For those cases, you can make a slight modification to your tool to include a hook, which will prevent the tool from slipping off.\
 
 
 ![](https://lh5.googleusercontent.com/VYQqWoauSMpzgmWHt5TzzG5-x0-OQbBGsjKyWwxZexJUqFoXGvPfDxdmNb1-nRx1UVsNgnnvqkxmWM1BcxI3Mq8HqajPLShlpAwEteOi9BEttfBvZz4pgAG6cfY3P9b2UaxWEs\_IQsL7v5dXf03vgg)
@@ -53,12 +42,9 @@ For short-tail and flat bar handles, the conventional under door tool method won
 \
 
 
-**String improvement**
+#### **String improvement**
 
 You can use a kevlar-reinforced string instead of the normal one they give when you buy it. That way it won’t fray against the potentially sharp edges of the door.
-
-\
-
 
 **Crash bars**
 
@@ -84,12 +70,12 @@ These tools will help you conduct the attack:
 
 * Borescope for visibility
 * Air wedges for gap widening
-* A second person with a traveler hook [https://youtu.be/yrNysJgDSo0?t=168](https://youtu.be/yrNysJgDSo0?t=168)
-*
+* A second person with a traveler hook&#x20;
   * Often actuating the handle halfway will disengage the deadlatch and allow a traveler hook to slip the latch.
 
-\
-
+{% embed url="https://youtu.be/yrNysJgDSo0?t=168" %}
+Second person with a traveler hook
+{% endembed %}
 
 **In between double doors**
 
@@ -158,4 +144,15 @@ Anything to make sure there is no gap. For example, security astragals. Note tha
 
 ![](https://lh5.googleusercontent.com/NDr6qZ0SRQbzH\_cCEmbXI-mvGz7QwXhsDxqBuWSS7GItpWXmDY951UCMZly\_Yhrg3-qHda9mFgvxYNtz-KDxPLJ\_f8gU1sgSlzYerhMeOu-Sx2aP-p\_nivBypyeztnX498SqC96Umb95JR5LTXIYuQ)
 
-####
+#### Keyed-alike systems
+
+[https://youtu.be/rnmcRTnTNC8?t=1442](https://youtu.be/rnmcRTnTNC8?t=1442)
+
+Some systems (like some apartment building access electronics boxes) are all keyed using the same key, with the same cut. These keys can be bought online and used to get into places.
+
+\
+
+
+Whole talk about this topic:
+
+[https://www.youtube.com/watch?v=a9b9IYqsb\_U](https://www.youtube.com/watch?v=a9b9IYqsb\_U)
