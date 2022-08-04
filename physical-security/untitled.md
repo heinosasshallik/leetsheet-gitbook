@@ -125,51 +125,31 @@ The above driver bypass tool was used by lockpickinglawyer used to turn the lock
 
 {% embed url="https://youtu.be/kJ1_P5oqf6Y" %}
 
-Below: Adams Rite bypass tool, which can be used to directly manipulate the lock cam on some locks.
+![Adams Rite bypass tool, which can be used to directly manipulate the lock cam on some locks](https://lh6.googleusercontent.com/hjEH\_8eXXh9kgOZgBbyvNBNKSQYAHXizGOhS8gk1dfNtKLHTZL-605s9S2T-RhN\_uRzfsj5MUZIOByFnnxRYVd2ep6VHtMiuKIxV2PSCl12aqiSvpcSi-3tsCo1PRk0\_WU0XPzAuosPu1hwGjGTivg)
 
 \
 
 
-![](https://lh6.googleusercontent.com/hjEH\_8eXXh9kgOZgBbyvNBNKSQYAHXizGOhS8gk1dfNtKLHTZL-605s9S2T-RhN\_uRzfsj5MUZIOByFnnxRYVd2ep6VHtMiuKIxV2PSCl12aqiSvpcSi-3tsCo1PRk0\_WU0XPzAuosPu1hwGjGTivg)
-
-\
-
-
-**Combination locks**
+### **Combination locks**
 
 A thin shim can go through the dial hole and operate the unlocking mechanism directly
 
-[https://youtu.be/4YYvBLAF4T8?t=2210](https://youtu.be/4YYvBLAF4T8?t=2210)
+{% embed url="https://youtu.be/4YYvBLAF4T8?t=2210" %}
+Timestamped demo
+{% endembed %}
 
-\
+### **Shimming**
 
+If a shim can be inserted between the shackle and the locking bar, then nothing is keeping the shackle closed anymore. Can also work for handcuffs.
 
-**Shimming**
+## Latch Slipping Attacks
 
-If a shim can be inserted between the shackle and the locking bar, then nothing is keeping the shackle closed anymore. Also works for handcuffs.
-
-\
-\
-
-
-#### Latch Slipping Attacks
-
-[https://www.go-rbcs.com/articles/the-deadlocking-plunger-weakness](https://www.go-rbcs.com/articles/the-deadlocking-plunger-weakness)
-
-\
-
+{% embed url="https://www.go-rbcs.com/articles/the-deadlocking-plunger-weakness" %}
 
 Doesn’t work for locks, where the deadbolt doesn’t move unless the key is turned. It works for locks, where the deadbolt can retract. The purpose of a deadlocking plunger is to prevent this type of attack, but if the strike plate is improperly installed, and the plunger is not depressed, then the vulnerability remains.
 
-\
+Latches can be slipped with credit cards, traveler hooks (aka the shrum tool), piano wire, etc.
 
-
-Latches can be slipped with credit cards, traveler hooks (aka shrum tool), piano wire, etc.
-
-\
-\
-
-
-You can also try to use an air wedge to try to offset and disable a deadlatch
+You can also try to use an air wedge to try to offset and disable a deadlatch.
 
 ![](https://lh5.googleusercontent.com/se33ycNbQ-ci6y7tddiiCgoT2kDEXwQFHjyH7HQnBItXyEhL0URXMtTS1pQpKJrrFym-MU3Phd8md-jo2bTrADzJMswP18-T5d4MmqRTN5MndIvhcy9f543b1X7t5G-0mlVK2zAaBWB9UJ3-e5\_oJg)
