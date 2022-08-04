@@ -138,6 +138,7 @@
 * [Mechanical Locks](physical-security/untitled.md)
 * [Electronic Locks](physical-security/electronic-locks.md)
 * [Other Attacks](physical-security/other-attacks.md)
+* [Overt Entry](physical-security/overt-entry.md)
 
 ## Social Engineering
 
