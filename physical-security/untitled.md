@@ -93,61 +93,37 @@ This also occurs in cheaper pin-tumbler locks, and it’s commonly exploited usi
 \
 
 
-#### Self-impressioning attack
-
-\
-
+## Self-impressioning attack
 
 Common for tubular locks.
 
-\
-
-
 When all the driver pins and springs are the same length, then if you push onto all the key pins with equal force, then all the driver pins will be at the same distance from the shear line. Therefore, since all the driver pins need to be at the shear line for the lock to open, and all the driver pins move to the same position when you apply x force onto all the key pins, it’s not very difficult to open the lock this way.
-
-\
-
 
 Essentially, if you push something soft into all the key pins, you’re automatically impressioning the lock. This is how the tubular lock impressioning tools work. Additionally, this is why you can open many tubular locks by shoving something soft into it (most famously, a soft bic pen)
 
-\
-
-
 If the springs are of different materials or have different lengths or the driver pins have different lengths, then it doesn’t work.
 
-\
+## Handcuff escaping
 
+_Note: This does not work if the officer engages the double locking mechanism on the handcuffs._
 
-#### Handcuff escaping
+If you can slide a thin piece of metal (like part of a beer can) between the teeth of the handcuffs (you will have to tighten it by one notch for it to slide in between) then the teeth will no longer be locker together and you can just pull it apart. Btw if the metal is too thin and the teeth are biting strong enough, then it will crimp the metal and it will get stuck. So thicker is better.
 
-\
+## Direct Locking Lug/Cam Attack
 
+### **Padlocks**
 
-Note: This does not work if the officer engages the double locking mechanism on the handcuffs - if you can slide a thin piece of metal (like part of a beer can) between the teeth of the handcuffs (you will have to tighten it by one notch for it to slide in between) then the teeth will no longer be locker together and you can just pull it apart. Btw if the metal is too thin and the teeth are biting strong enough, then it will crimp the metal and it will get stuck. So thicker is better.
+If the locking lug of a padlock is not protected, then a lockpicking knife (or other object of a suitable shape) can be inserted into the lock and the locking lug can be unlocked without having to turn the key.&#x20;
 
-\
-\
+&#x20;
 
+![knife tool, which can be used to pry the locking lug](https://lh6.googleusercontent.com/H\_9mInP6LkA8C4bGfaPP4e08Mpjgf0K5vpVbeEjWxrYQHW0z2wzlSlFAEBmPlaltG2jNi4JXFNSNfnNpHP5wDfo0WzGE\_5eTQMUa\_XDciVmWA8gxwzvKj3fiAXGw3cBhOYyW0d94tbEE5yNkT5k9MA)
 
-#### Direct Locking Lug/Cam Attack
+![Driver bypass tool](https://lh4.googleusercontent.com/aTdhAYASrClMMH97gRtKStT1fGTE9odL24bNmp627241owVIWoH6g3iVEJf-EwIYYLhL86HS2GfOQHtDSbp6wnkDEgPductFep4YHTnIEfPStohITFMmLm6LPN3FHrQrMRAqyQpu2ctcHulnj4BLzg)
 
-**Padlocks**
+The above driver bypass tool was used by lockpickinglawyer used to turn the locking lug:&#x20;
 
-\
-
-
-If the locking lug of a padlock is not protected, then a lockpicking knife (or other object of a suitable shape) can be inserted into the lock and the locking lug can be unlocked without having to turn the key.
-
-![](https://lh6.googleusercontent.com/H\_9mInP6LkA8C4bGfaPP4e08Mpjgf0K5vpVbeEjWxrYQHW0z2wzlSlFAEBmPlaltG2jNi4JXFNSNfnNpHP5wDfo0WzGE\_5eTQMUa\_XDciVmWA8gxwzvKj3fiAXGw3cBhOYyW0d94tbEE5yNkT5k9MA)    On the left: knife tool, which can be used to pry the locking lug
-
-\
-\
-
-
-![](https://lh4.googleusercontent.com/aTdhAYASrClMMH97gRtKStT1fGTE9odL24bNmp627241owVIWoH6g3iVEJf-EwIYYLhL86HS2GfOQHtDSbp6wnkDEgPductFep4YHTnIEfPStohITFMmLm6LPN3FHrQrMRAqyQpu2ctcHulnj4BLzg) On the left: driver bypass tool, which lockpickinglawyer used to turn the locking lug: [https://www.youtube.com/watch?v=kJ1\_P5oqf6Y](https://www.youtube.com/watch?v=kJ1\_P5oqf6Y)
-
-\
-
+{% embed url="https://youtu.be/kJ1_P5oqf6Y" %}
 
 Below: Adams Rite bypass tool, which can be used to directly manipulate the lock cam on some locks.
 
