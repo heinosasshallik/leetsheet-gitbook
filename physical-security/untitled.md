@@ -25,9 +25,7 @@ If you’ve picked the lock the wrong way (or it’s more difficult to pick the 
 
 Always apply pressure to the shackle.
 
-_Note: T_
-
-_his information applies to the combination lock I own. I haven’t been able to test it out on other combination locks yet_
+_Note: This information applies to the combination lock I own. I haven’t been able to test it out on other combination locks yet_
 
 A dial is correct when it turns freely even with extreme pressure from the shackle. It should turn pretty much exactly from one dividing line to another (on the combination wheel). If it turns more or less than that, then it’s probably not right. If you think you’ve found the right one, then you can try all the other numbers as well, since it might be a false gate (but a false gate means you’re close)
 
@@ -62,28 +60,19 @@ Deviant’s talks:
 
 You don’t need the specific tool used in that video. What you can do is jiggle the key on the lock every day, inspecting the results and filing the key down each time according to the scratch marks. It might take a few weeks, but you’ll have a functioning key by the end of it, if you do it right.
 
-**Using photography**
+### **Using photography**
 
-[https://www.youtube.com/watch?v=vxJ3Kovz-bo](https://www.youtube.com/watch?v=vxJ3Kovz-bo)
+{% embed url="https://www.youtube.com/watch?v=vxJ3Kovz-bo" %}
 
-[https://www.youtube.com/watch?v=AayXf5aRFTI](https://www.youtube.com/watch?v=AayXf5aRFTI)
-
-\
-
+{% embed url="https://www.youtube.com/watch?v=AayXf5aRFTI" %}
 
 The depth of a key is standard. You can use calipers to measure the depth and get the key bitting that way. Or, slightly sneakier - you can take a photo. Here are gridlines for common keys that will help you determine the bitting (use photoshop to get the angle and size right)
 
-[https://github.com/deviantollam/decoding](https://github.com/deviantollam/decoding)
+{% embed url="https://github.com/deviantollam/decoding" %}
 
 The gridlines are under “Key Decoding”
 
-\
-
-
 And btw - some keys have the bitting written on the key itself (direct bitting code). If you see a number on your key, then that might be the bitting. Higher numbers usually mean deeper bitting, so you can easily verify this.
-
-\
-
 
 However, some locks have a “blind” code on the packaging  the key The manufacturer has a lookup table for that code. You may or may not have access to it (for example, for Masterlock there are resources online for it). If not, then if you see a thrown out lock packaging with a blind code, then you can just go to your local hardware store, find the same lock with the same blind code, and check what bitting it has.
 
@@ -91,23 +80,11 @@ Combination dial locks may have them written on the back as well.
 
 There’s also locksmithing software for this, like InstaCode
 
-\
-
-
-#### Overlifting attack
-
-\
-
+## Overlifting attack
 
 Common for wafer locks.
 
-\
-
-
 If you insert a blank key (or, for example, a popsicle stick) into a wafer lock, then it will overlift the wafers, forcing them to block on the opposite side they’re normally blocking at (therefore having the spring push them back into the original position). Therefore, if you keep rotational energy while slowly pulling the blank key back out, then the wafers will go from the opposite side into the middle, but will get stuck in the middle before they can get back into the original position. Therefore, when you’ve pulled the blank key out (keeping rotational energy), then all the wafers will be in the correct position, and you can open the lock.
-
-\
-
 
 This also occurs in cheaper pin-tumbler locks, and it’s commonly exploited using a comb rake.&#x20;
 
