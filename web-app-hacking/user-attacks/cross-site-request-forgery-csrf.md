@@ -34,8 +34,10 @@ This one is very difficult. Can only be accomplished with like browser plugins/p
 
 You can try to do a CSRF request to a JSON API endpoint.
 
-[https://blog.azuki.vip/csrf/](https://blog.azuki.vip/csrf/)\
+{% embed url="https://blog.azuki.vip/csrf/" %}
+\
 
+{% endembed %}
 
 **Caveats** (as of august 2021):
 
