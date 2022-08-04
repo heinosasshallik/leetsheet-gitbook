@@ -135,7 +135,9 @@
 
 ## Physical Security
 
-* [Untitled](physical-security/untitled.md)
+* [Mechanical Locks](physical-security/untitled.md)
+* [Page 1](physical-security/page-1.md)
+* [Page 2](physical-security/page-2.md)
 
 ## Social Engineering
 
