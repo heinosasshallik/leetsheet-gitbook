@@ -18,62 +18,114 @@ Note that this cannot be used to capture passwords, since the letters do not app
 
 ## Virtual Machine Setup
 
-\[+] VirtualBox
+### VirtualBox
 
 Settings -> network -> bridged or host-only adapter.\
 You can see the range of the adapter in file->host network manager. It’s 192.168.56.1 by default.
 
-\
-
-
-\[+] General:
+#### Host Only
 
 Connecting to the VM:\
 Edit /etc/interfaces to make the ip static. Make the ip be in the same range as the adapter and set the gateway to the adapter
 
-\
+```
+sudo nano /etc/network/interfaces
 
+# Interfaces configuration
+iface eth0 inet static
+address 192.168.56.20
+netmask 255.255.255.0
+gateway 192.168.56.1
 
-\---- Default configuration for VirtualBox ---
-
-(\*) Host only
-
-\
-sudo nano /etc/network/interfaces\
-iface eth0 inet static\
-address 192.168.56.20\
-netmask 255.255.255.0\
-gateway 192.168.56.1\
-sudo ifdown eth0\
+# Restart the interface
+sudo ifdown eth0
 sudo ifup eth0
+```
 
-\
+#### Bridged
 
+Make sure virtualbox is running a dchp service.
 
-(\*) Bridged
+```
+sudo nano /etc/network/interfaces
 
-(make sure virtualbox is running a dchp service)
-
-Sudo nano /etc/network/interfaces
-
+# interfaces file configuration
 iface eth0 inet dhcp
 
-Sudo ifdown eth0
+# Restart the interface
+sudo ifdown eth0
+sudo ifup eth0
+```
 
-Sudo ifup eth0
+### Hyper-V
 
-\
-
-
-\[+] Hyper-V:
-
-See what the gateway IP is by doing cmd -> ipconfig
+See what the gateway IP is by doing cmd -> ipconfig.
 
 If you can ping 8.8.8.8 but not google.com, then you have no DNS.
 
-\
+```
+nano resolv.conf
 
+# resolv.conf configuration:
+nameserver 8.8.8.8
+```
 
-Nano resolv.conf
+## Resolving Linux Problems
 
-Nameserver 8.8.8.8
+### Linux Clock is Wrong
+
+Update the clock:
+
+```
+sudo ntpdate -s time.nist.gov
+```
+
+## Steganography
+
+Stego-toolkit is pretty good for CTF excercises.
+
+{% embed url="https://github.com/DominicBreuker/stego-toolkit" %}
+
+### Exif Data
+
+Use exiftool to extract exif data. Sometimes it will tell you there's some extra encoded data you can extract. You can extract it or binwalk it
+
+```
+exiftool filename.jpg
+```
+
+If you extract something using the `-b` flag, then you can binwalk whatever you've extracted
+
+### **Binwalk** F**or Embedded Files or Code**
+
+Binwalk is a tool for searching binary images for embedded files and executable code. Super useful for finding whether an image contains extra files or code.
+
+```
+binwalk file.ext
+```
+
+You can extract the detected data using:
+
+```
+binwalk -e file.jpg 
+
+```
+
+Though, keep in mind that [it's normal for images to contain zlib compressed data.](https://security.stackexchange.com/questions/144530/what-to-do-with-output-files-from-binwalk/144593)
+
+## OS Install
+
+### Windows
+
+A non-activated official version of Windows can be installed from Microsoft’s website. Use either windows’ own tool (didn’t work for me) or [Rufus](https://rufus.ie/en/) to install onto USB. Use a good USB that has at least 8GB space.
+
+HWIDGEN is frequently used to **illegally** activate Windows for free.
+
+## Persistent Kali
+
+Use this guide
+
+{% embed url="https://devanswers.co/guide-kali-linux-2018-live-usb-encrypted-persistence-windows/" %}
+
+When writing `persistence.conf`, instead of following the instructions, go there with `cd` and write the file using `touch` and `nano`.
+
