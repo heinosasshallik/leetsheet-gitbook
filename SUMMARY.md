@@ -108,7 +108,7 @@
 * [CVEs](various/untitled.md)
 * [SSH Agent Hijacking](various/ssh-agent-hijacking.md)
 * [Password Cracking](various/password-cracking.md)
-* [Crypto](various/crypto.md)
+* [Cryptography](various/cryptography.md)
 * [Non-Hacking](various/non-hacking.md)
 * [Malware](various/page-1.md)
 
