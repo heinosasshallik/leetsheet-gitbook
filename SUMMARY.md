@@ -124,6 +124,7 @@
 * [Stack Smashing](binary-exploitation/stack-smashing.md)
 * [Heap Exploits](binary-exploitation/heap-exploits.md)
 * [Time-of-Check to Time-of-Use (TOCTOU)](binary-exploitation/time-of-check-to-time-of-use-toctou.md)
+* [Shellcode](binary-exploitation/shellcode.md)
 
 ## Physical Security
 
