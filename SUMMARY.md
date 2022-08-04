@@ -128,6 +128,7 @@
 * [Decompilation](binary-exploitation/decompilation.md)
 * [Debugging](binary-exploitation/debugging.md)
 * [Exploit Mitigations and Protections](binary-exploitation/exploit-mitigations-and-protections.md)
+* [Exploit Protection Bypassing](binary-exploitation/exploit-protection-bypassing.md)
 
 ## Physical Security
 
