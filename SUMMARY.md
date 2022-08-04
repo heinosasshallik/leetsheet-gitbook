@@ -103,10 +103,6 @@
   * [Backdoors](post-exploitation/linux/backdoors.md)
 * [General](post-exploitation/general.md)
 
-## Blue Team
-
-* [Untitled](blue-team/untitled.md)
-
 ## Various
 
 * [CVEs](various/untitled.md)
