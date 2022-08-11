@@ -34,6 +34,7 @@ Common flags:
 * `-A` : Detect all things, including services and OS
 * `-sC` : Scan using default **safe** scripts
 * `-Pn` : Scan a host even if it doesn't respond to pings
+* `-6`: Scan an IPv6 address
 
 Stealth scans:
 
