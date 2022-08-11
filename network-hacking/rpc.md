@@ -2,9 +2,70 @@
 
 ## Enumeration
 
-If you've got an rpcclient prompt, then you can use it for enumeration.&#x20;
+### List Network Interfaces
 
-{% embed url="https://www.blackhillsinfosec.com/password-spraying-other-fun-with-rpcclient/" %}
+{% embed url="https://airbus-cyber-security.com/the-oxid-resolver-part-1-remote-enumeration-of-network-interfaces-without-any-authentication/" %}
+
+Use this script:
+
+```
+#!/usr/bin/python
+
+import sys, getopt
+
+from impacket.dcerpc.v5 import transport
+from impacket.dcerpc.v5.rpcrt import RPC_C_AUTHN_LEVEL_NONE
+from impacket.dcerpc.v5.dcomrt import IObjectExporter
+
+def main(argv):
+
+    try:
+        opts, args = getopt.getopt(argv,"ht:",["target="])
+    except getopt.GetoptError:
+        print ('IOXIDResolver.py -t <target>')
+        sys.exit(2)
+
+    target_ip = ""
+
+    for opt, arg in opts:
+        if opt == '-h':
+            print ('IOXIDResolver.py -t <target>')
+            sys.exit()
+        elif opt in ("-t", "--target"):
+            target_ip = arg
+
+    if target_ip == '':
+            print ('IOXIDResolver.py -t <target>')
+            sys.exit()
+
+    authLevel = RPC_C_AUTHN_LEVEL_NONE
+
+    stringBinding = r'ncacn_ip_tcp:%s' % target_ip
+    rpctransport = transport.DCERPCTransportFactory(stringBinding)
+
+    portmap = rpctransport.get_dce_rpc()
+    portmap.set_auth_level(authLevel)
+    portmap.connect()
+
+    objExporter = IObjectExporter(portmap)
+    bindings = objExporter.ServerAlive2()
+
+    print ("[*] Retrieving network interface of " + target_ip)
+
+    #NetworkAddr = bindings[0]['aNetworkAddr']
+    for binding in bindings:
+        NetworkAddr = binding['aNetworkAddr']
+        print ("Address: " + NetworkAddr)
+
+if __name__ == "__main__":
+   main(sys.argv[1:])
+```
+
+Run the following command:
+
+```
+IOXIDResolver.py -t TARGET_IP_HERE
+```
 
 ### Domain Users and Groups
 
