@@ -67,6 +67,16 @@ Run the following command:
 IOXIDResolver.py -t TARGET_IP_HERE
 ```
 
+Example:
+
+```
+└─$ python3 exploit/ioxidresolver.py -t cascade.htb  
+[*] Retrieving network interface of cascade.htb
+Address: CASC-DC1
+Address: 10.10.10.182
+Address: dead:beef::90c2:d9a5:3998:f429
+```
+
 ### Domain Users and Groups
 
 These commands should be run from an rpcclient prompt.
