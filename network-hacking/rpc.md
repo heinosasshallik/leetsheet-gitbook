@@ -77,6 +77,8 @@ Address: 10.10.10.182
 Address: dead:beef::90c2:d9a5:3998:f429
 ```
 
+Once you have the **ipv6 address**, you can run **nmap** against it ([htb example](https://0xdf.gitlab.io/2021/04/10/htb-apt.html)). This might give you more open ports than running it against ipv4.
+
 ### Domain Users and Groups
 
 These commands should be run from an rpcclient prompt.
