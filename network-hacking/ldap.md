@@ -14,7 +14,7 @@ Once you have the naming context(s), you can dump them (in this example, the nam
 ldapsearch -h IP_ADDRESS_HERE -x -b "DC=cascade,DC=local" 
 ```
 
-_Note: The output of this ldapsearch contains **more information** than `ldap-search` nmap script._
+_Note: The output of this ldapsearch contains **more information** than the `ldap-search` nmap script. For example, it may contain information about users on the machine and their settings._
 
 ## Dumping LDAP
 
