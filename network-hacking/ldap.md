@@ -2,9 +2,13 @@
 
 ## Manual Enumeration
 
-You can always query the RootDSE for naming contexts and and other information (such as authentication info). Refer to the following to get the naming context and dump information:
+Even without credentials, you can always query the RootDSE for naming contexts and potentially other information, such as the DnsHostName:
 
-{% embed url="https://book.hacktricks.xyz/network-services-pentesting/pentesting-ldap#basic-enumeration" %}
+```
+ldapsearch -x -H ldap://IP_ADDRESS_HERE -b "" -s base
+```
+
+
 
 ## Dumping LDAP
 
