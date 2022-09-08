@@ -16,7 +16,7 @@ Use the -R flag to recursively list everything.
 smbclient -L \querier.htb
 ```
 
-Enter any password or supply the --no-pass flag.
+Enter any password or supply the `--no-pass` flag.
 
 ## Pass The Hash
 
