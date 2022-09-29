@@ -27,13 +27,12 @@ Files search:
 gobuster dir -u http://server-client -w /usr/share/dirb/wordlists/common.txt  -x .php,.html,.txt --discover-backup
 ```
 
+
+
 Flags:
 
 * `--discover-backup` : Upon finding a file, search for backup files
   * [Not working correctly at the moment](https://github.com/OJ/gobuster/issues/298).
-* `-u` : URL
-* `-w` : wordlist
-* `-x`: list of file extensions
 
 _Note: If you specify -x, then don’t worry, it also includes files without file extension_
 

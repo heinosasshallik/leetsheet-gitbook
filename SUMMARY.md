@@ -15,6 +15,7 @@
 * [Enumeration](web-app-hacking/enumeration/README.md)
   * [Webserver Virtualhost Subdomains](web-app-hacking/enumeration/webserver-virtualhost-subdomains.md)
   * [Common Identifiers](web-app-hacking/enumeration/common-identifiers.md)
+  * [Web Fuzzing](web-app-hacking/enumeration/web-fuzzing.md)
   * [Directory Enumeration](web-app-hacking/enumeration/directory-enumeration/README.md)
     * [Automated Directory Enumeration](web-app-hacking/enumeration/directory-enumeration/automated-directory-enumeration.md)
     * [Manual Directory Enumeration](web-app-hacking/enumeration/directory-enumeration/manual-directory-enumeration.md)
