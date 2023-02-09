@@ -112,6 +112,8 @@
 * [Cryptography](various/crypto.md)
 * [Non-Hacking](various/non-hacking.md)
 * [Malware](various/page-1.md)
+* [Forensics](various/forensics/README.md)
+  * [Reading Keystrokes from USB PCAP Data](various/forensics/reading-keystrokes-from-usb-pcap-data.md)
 
 ## Binary Exploitation
 
