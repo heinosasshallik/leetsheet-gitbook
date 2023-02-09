@@ -6,6 +6,8 @@ Get the keystrokes data from the pcap:
 tshark -r keystrokes.pcapng -Y 'usbhid.data && usb.data_len == 8' -T fields -e usbhid.data | tee usbhiddata.txt
 ```
 
+_Note: Practically all tutorials tell you to extract the `usb.capdata` field, but for me, that didn't exist, and I had to use `usbhid.data` instead._
+
 Then, use the following script to decode the keystrokes data (credit to [Stay on Target blog](https://blog.stayontarget.org/2019/03/decoding-mixed-case-usb-keystrokes-from.html)):
 
 ```python
